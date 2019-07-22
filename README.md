@@ -21,5 +21,4 @@ Me, the author of the project, allows you to check the code as a reference, but 
 it is your responsibility if you get expelled.
 ```
 
-Besides the above notice, the MIT License must be included
-in all works derived from these projects. See [LICENCE](LICENCE) file for details.
+

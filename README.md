@@ -8,7 +8,7 @@ This is master repository for my course of iOS Nanodegree with Udacity. Each pro
 | 1 | Pitch Perfect   | Intro to iOS App Development with Swift | ![Pitch Perfect Preview](https://raw.githubusercontent.com/aruke/iOS-Nanodegree-Projects/master/P1%20PitchPerfect/Screenshots/PlaySoundScreen.png) | iOS app for recording voice and playing it through different voices. |
 | 2 | MemeMe          | UIKit Fundamentals | ![MemeMe Preview](https://raw.githubusercontent.com/aruke/iOS-Nanodegree-Projects/master/P2%20MemeMe/Screenshots/MemeEditorFilled.png) | Meme creator app on iOS platform. |
 | 3 | On the Map      | iOS Networking with Swift | ![On the Map Preview](https://raw.githubusercontent.com/aruke/iOS-Nanodegree-Projects/master/P3%20OnTheMap/Screenshots/Map-Pin.png) | An iOS application to find Udacity Students studying across the world. |
-| 4 | Virtual Tourist      | iOS Data persistance and core data | ![Virtual tourist Preview] | An ios app app which give you to brief introduction that how to persist the data and brief how to make use of core Data library in your app. |
+| 4 | Virtual Tourist      | iOS Data persistance and core data | ![Virtual tourist Preview(https://raw.githubusercontent.com/aruke/iOS-Nanodegree-Projects/master/P4%20VirtualTourist/Screenshots/Map-ViewPin.png)] | An ios app app which give you to brief introduction that how to persist the data and brief how to make use of core Data library in your app. |
 
 
 ## Licence

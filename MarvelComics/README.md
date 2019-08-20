@@ -3,8 +3,8 @@ Marvel Comics displays information posted by Marvel about their comics,stories a
 # Screenshots
 
 | Main Screen | Search Function | Searched Result|
-| ----------------------------------------------------------------------------------------------- | ----------- | ---- |
-| ![Screenshot 2019-08-20 at 1.01.21 AM.png](ScreenShots/Screenshot 2019-08-20 at 1.01.21 AM.png) | ![Map-Pin.png]
+| ----------- | ----------- | ---- |
+| ![main.png](ScreenShots/main.png) | ![Map-Pin.png]
 | Account | Add Pin | Add Profile |
 | ------- | ------- | ----------- |
 | ![Account.png](Screenshots/Account.png) | ![AddPin.png](Screenshots/AddPin.png) | ![AddProfile.png](Screenshots/AddProfile.png) |

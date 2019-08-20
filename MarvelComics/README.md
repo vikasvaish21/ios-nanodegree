@@ -4,7 +4,7 @@ Marvel Comics displays information posted by Marvel about their comics,stories a
 
 | Main Screen | Search Function | Searched Result|
 | ----------- | ----------- | ---- |
-| ![main.png](ScreenShots/main.png) | ![Map-Pin.png]
+| ![main.png](ScreenShots/main.png) | ]
 | Account | Add Pin | Add Profile |
 | ------- | ------- | ----------- |
 | ![Account.png](Screenshots/Account.png) | ![AddPin.png](Screenshots/AddPin.png) | ![AddProfile.png](Screenshots/AddProfile.png) |
